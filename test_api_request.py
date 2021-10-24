@@ -37,7 +37,6 @@ LASTNAMES = [
     "Garfield",
     "Arthur",
     "Cleveland",
-    "Harrison",
     "McKinley",
     "Roosevelt",
     "Taft",
